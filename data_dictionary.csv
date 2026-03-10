@@ -1,0 +1,32 @@
+table,column,dtype,description
+members,member_id,int64,Unique member identifier
+members,join_date,datetime64[ns],Date the member joined the gym
+members,age,float64,Age of the member in years
+members,gender,object,Original gender label as stored
+members,gender_clean,category,Cleaned gender category (Male/Female/Other)
+members,city,object,Original city name as stored
+members,city_clean,category,Standardized city name (title case)
+members,membership_type,category,Membership tier (Basic/Standard/Premium)
+members,height_cm,float64,Member height in centimeters
+members,weight_kg,float64,Member weight in kilograms
+members,referral_source,category,How the member heard about the gym
+members,is_student,int64,"1 if the member is a student, else 0"
+members,height_m,float64,Member height in meters
+members,BMI,float64,Body Mass Index calculated from height and weight
+members,age_group,category,Binned age group category
+workouts,workout_id,int64,Unique workout session identifier
+workouts,member_id,int64,Foreign key referencing members.member_id
+workouts,workout_datetime,datetime64[ns],Timestamp of the workout session
+workouts,workout_type,object,Original workout type as stored
+workouts,workout_type_clean,category,Cleaned workout type category
+workouts,duration_min,float64,Duration of the workout in minutes
+workouts,calories_burned,float64,Total calories burned during the workout
+workouts,avg_heart_rate,float64,Average heart rate during the workout
+workouts,satisfaction_rating,float64,User satisfaction rating (1–5) for the workout
+workouts,branch,category,Gym branch where the workout took place
+workouts,workout_date,date,Date component of workout_datetime
+workouts,workout_month,datetime64[ns],First day of the month of the workout
+workouts,day_of_week,category,Day of the week for the workout
+workouts,hour_of_day,int64,Hour of day (24h) when the workout started
+workouts,calories_per_min,float64,Calories burned per minute
+merged,tenure_days,float64,Member tenure (days since join_date) at time of workout

@@ -1,0 +1,301 @@
+member_id,join_date,age,gender,city,membership_type,height_cm,weight_kg,referral_source,is_student
+1,2023-04-13,26.0,Female,Sharjah,Basic,175.2,80.9,Social Media,1
+2,2024-05-06,23.0,Female,Al Ain,Basic,170.2,68.6,,0
+3,2024-04-20,31.0,Female,Sharjah,Standard,162.3,44.6,Friend,0
+4,2023-12-06,37.0,Female,Sharjah,Basic,,64.4,Friend,0
+5,2023-04-16,26.0,Female,Dubai,Basic,170.7,86.8,Friend,0
+6,2023-12-04,48.0,Male,Al Ain,Basic,151.2,54.5,Online Ad,0
+7,2023-05-19,34.0,Male,Abu Dhabi,Premium,160.9,61.6,,0
+8,2023-04-09,29.0,Female,Abu Dhabi,Premium,160.7,86.8,Friend,0
+9,2024-01-28,25.0,Female,Al Ain,Standard,173.3,79.5,Walk-in,1
+10,2023-02-05,22.0,Male,Dubai,Basic,168.9,60.7,Online Ad,0
+11,2023-11-27,24.0,Male,dubai,Basic,166.4,61.9,Walk-in,0
+12,2023-08-13,26.0,Male,Al Ain,Standard,172.6,73.9,Online Ad,0
+13,2024-01-21,24.0,F,dubai,Basic,174.6,96.5,Social Media,0
+14,2024-02-20,37.0,Male,Sharjah,Standard,169.5,,Walk-in,0
+15,2023-07-20,23.0,Male,Dubai,Basic,164.3,59.1,Social Media,0
+16,2023-12-04,33.0,Female,Sharjah,Standard,163.7,67.2,Online Ad,0
+17,2023-01-02,37.0,Male,Sharjah,Standard,171.5,87.8,Online Ad,0
+18,2023-04-09,42.0,M,Dubai,Premium,156.7,,Online Ad,0
+19,2023-05-15,23.0,Female,Dubai,Premium,181.0,88.7,Walk-in,1
+20,2023-10-11,29.0,Male,Sharjah,Premium,152.2,71.4,Friend,0
+21,2023-02-06,29.0,Male,Abu Dhabi,Premium,177.4,61.1,Social Media,0
+22,2023-11-19,26.0,Female,Sharjah,Standard,173.6,83.4,Social Media,0
+23,2023-09-03,20.0,Male,Al Ain,Standard,160.6,83.6,Online Ad,0
+24,2024-04-15,37.0,Male,Dubai,Basic,165.9,83.9,Friend,1
+25,2023-02-23,18.0,Female,Al Ain,Basic,174.3,100.0,Online Ad,1
+26,2023-09-26,24.0,Female,Sharjah,Standard,162.7,66.3,Friend,1
+27,2024-01-28,27.0,Female,Al Ain,Premium,171.6,79.1,Online Ad,0
+28,2023-09-04,45.0,Male,Abu Dhabi,Basic,167.2,65.9,Friend,1
+29,2023-07-23,26.0,Female,Abu Dhabi,Basic,181.0,122.8,Social Media,0
+30,2023-12-02,30.0,Male,Al Ain,Basic,163.8,106.7,Walk-in,1
+31,2023-09-25,,Female,dubai,Basic,168.9,67.7,Online Ad,0
+32,2024-02-22,31.0,Male,Abu Dhabi,Basic,174.5,73.8,,0
+33,2024-04-01,43.0,Male,Al Ain,Standard,186.9,86.5,Walk-in,1
+34,2023-09-30,22.0,Male,Sharjah,Basic,173.9,73.1,Walk-in,1
+35,2024-05-20,24.0,Male,Abu Dhabi,Premium,190.9,74.8,Walk-in,1
+36,2023-05-13,23.0,Male,Al Ain,Premium,170.6,75.9,Friend,1
+37,2023-06-19,36.0,Female,Al Ain,Premium,167.7,79.3,Social Media,1
+38,2023-03-11,28.0,Female,Sharjah,Basic,154.1,68.7,Friend,0
+39,2023-02-27,35.0,Male,Dubai,Standard,177.7,75.9,Social Media,1
+40,2023-06-22,24.0,Male,Al Ain,Standard,170.2,82.5,Social Media,0
+41,2023-05-23,45.0,Female,Dubai,Premium,162.3,107.8,Online Ad,0
+42,2023-03-31,24.0,Female,Abu Dhabi,Standard,187.3,52.6,Online Ad,0
+43,2024-06-30,35.0,Female,abu dhabi,Basic,184.8,79.4,,0
+44,2024-04-05,22.0,Male,Al Ain,Standard,186.4,78.4,Walk-in,0
+45,2024-04-02,20.0,Male,Dubai,Premium,163.6,75.0,Friend,1
+46,2023-11-02,27.0,Female,Sharjah,Basic,184.9,88.2,Walk-in,1
+47,2023-11-02,18.0,Male,Abu Dhabi,Basic,184.4,89.7,Social Media,1
+48,2023-05-18,32.0,Female,Abu Dhabi,Standard,181.2,53.4,Online Ad,0
+49,2023-04-21,22.0,Female,Al Ain,Basic,174.9,62.8,Social Media,0
+50,2023-08-21,26.0,Female,Abu Dhabi,Basic,189.6,72.0,Online Ad,1
+51,2023-02-17,29.0,Male,Sharjah,Standard,167.8,52.3,Online Ad,1
+52,2024-06-09,39.0,Male,Dubai,Basic,166.4,88.5,Walk-in,0
+53,2024-04-29,31.0,Male,Abu Dhabi,Standard,157.1,95.1,Friend,0
+54,2023-04-21,20.0,Female,Sharjah,Basic,172.3,87.6,Walk-in,0
+55,2024-01-12,27.0,Female,Dubai,Basic,167.6,,Online Ad,1
+56,2023-01-06,34.0,Unknown,Dubai,Basic,175.3,78.1,Walk-in,0
+57,2023-01-26,36.0,Female,Al Ain,Basic,162.4,52.1,Social Media,0
+58,2024-05-25,35.0,Female,Al Ain,Basic,164.0,86.4,Social Media,0
+59,2024-02-23,34.0,Female,Sharjah,Basic,168.0,76.3,Friend,0
+60,2023-12-15,28.0,Female,Sharjah,Premium,,106.1,Online Ad,0
+61,2023-02-11,38.0,Male,Abu Dhabi,Standard,165.9,79.9,Walk-in,0
+62,2023-04-14,28.0,Male,Sharjah,Basic,175.1,,Online Ad,1
+63,2024-02-24,36.0,M,Sharjah,Basic,177.2,41.3,Social Media,0
+64,2023-01-15,34.0,Male,Abu Dhabi,Standard,,103.2,Walk-in,0
+65,2023-01-11,29.0,Female,Al Ain,Basic,173.3,71.0,Online Ad,1
+66,2024-04-04,26.0,Female,Al Ain,Premium,,72.2,Walk-in,1
+67,2023-10-23,27.0,Female,Sharjah,Basic,165.3,,,0
+68,2024-03-11,,M,Abu Dhabi,Premium,154.4,33.2,Walk-in,0
+69,2023-06-28,33.0,Female,Sharjah,Basic,154.7,76.2,Social Media,1
+70,2023-05-28,19.0,Female,Sharjah,Basic,162.2,85.1,Walk-in,0
+71,2023-10-12,19.0,Female,Sharjah,Standard,184.7,66.5,Walk-in,0
+72,2023-09-21,18.0,Male,Sharjah,Standard,179.4,94.1,Social Media,0
+73,2024-03-18,47.0,Male,Sharjah,Premium,171.5,75.2,Friend,1
+74,2024-03-27,30.0,Female,Al Ain,Standard,176.9,82.0,Online Ad,0
+75,2023-10-12,36.0,Male,Sharjah,Basic,168.2,55.8,Friend,0
+76,2023-02-22,42.0,Female,Abu Dhabi,Standard,171.1,77.3,Social Media,0
+77,2023-07-28,32.0,Male,Dubai,Standard,152.9,66.9,Walk-in,1
+78,2023-05-08,24.0,Male,Abu Dhabi,Premium,172.6,89.7,Online Ad,0
+79,2024-03-30,38.0,Male,Al Ain,Basic,172.6,77.2,Social Media,0
+80,2023-10-23,28.0,Male,Sharjah,Basic,152.5,73.1,Walk-in,0
+81,2023-09-01,29.0,Male,Abu Dhabi,Standard,163.4,104.6,Friend,0
+82,2023-05-11,29.0,Female,Dubai,Basic,176.6,90.2,Social Media,0
+83,2023-11-14,38.0,Male,Abu Dhabi,Standard,,77.2,Online Ad,1
+84,2024-02-05,27.0,Male,Sharjah,Basic,169.6,85.2,Friend,0
+85,2024-02-06,45.0,Female,Dubai,Standard,173.4,,Walk-in,0
+86,2024-05-11,21.0,Female,Al Ain,Premium,159.1,39.4,Friend,0
+87,2023-05-21,34.0,Male,abu dhabi,Standard,168.3,50.9,Social Media,1
+88,2023-12-25,33.0,Female,Dubai,Premium,176.7,99.2,Online Ad,0
+89,2024-02-03,40.0,Female,Al Ain,Premium,160.0,74.3,Social Media,1
+90,2023-11-06,34.0,Male,Abu Dhabi,Basic,163.6,,Social Media,0
+91,2024-06-04,27.0,Female,Sharjah,Basic,158.3,110.4,Friend,1
+92,2023-09-24,36.0,Male,Sharjah,Premium,175.4,,Social Media,1
+93,2023-08-14,18.0,Female,Abu Dhabi,Standard,157.4,22.8,Social Media,1
+94,2023-11-19,23.0,Female,Abu Dhabi,Premium,179.3,81.3,Walk-in,0
+95,2023-12-29,32.0,Female,Sharjah,Basic,163.7,66.9,Walk-in,0
+96,2023-12-22,34.0,Unknown,Al Ain,Basic,160.1,77.3,Friend,0
+97,2023-12-31,27.0,F,Al Ain,Premium,172.2,68.3,Walk-in,0
+98,2024-06-07,31.0,Female,al ain,Premium,164.4,80.7,Social Media,0
+99,2023-01-29,40.0,F,Al Ain,Standard,169.3,81.6,Social Media,0
+100,2023-05-10,26.0,Male,Abu Dhabi,Basic,174.3,78.6,Social Media,0
+101,2024-03-28,29.0,Female,Abu Dhabi,Basic,172.4,,Online Ad,0
+102,2023-11-05,37.0,Female,Sharjah,Basic,168.4,54.9,Friend,0
+103,2023-09-30,20.0,Male,Dubai,Standard,176.1,79.4,Social Media,0
+104,2023-10-01,29.0,Female,Al Ain,Premium,179.4,87.7,Social Media,0
+105,2023-02-15,,Female,Dubai,Standard,158.4,71.3,Social Media,1
+106,2023-04-13,25.0,Female,Sharjah,Basic,172.8,63.0,Walk-in,1
+107,2023-01-09,,Female,Sharjah,Basic,173.6,76.7,Friend,1
+108,2024-05-29,36.0,Male,Dubai,Standard,,68.6,Walk-in,1
+109,2023-12-22,33.0,Male,Dubai,Basic,,67.7,Online Ad,0
+110,2023-02-04,51.0,Male,Al Ain,Premium,181.3,70.9,Social Media,0
+111,2023-12-30,30.0,Female,Abu Dhabi,Standard,185.8,94.8,Walk-in,0
+112,2024-01-06,33.0,Female,Al Ain,Basic,,95.8,Friend,0
+113,2024-06-09,29.0,Female,Sharjah,Standard,181.7,,Social Media,0
+114,2023-06-12,22.0,M,Al Ain,Standard,170.8,,Friend,0
+115,2023-12-27,19.0,Male,al ain,Standard,165.7,70.2,Social Media,1
+116,2023-06-05,44.0,Male,Dubai,Basic,157.6,84.4,Social Media,1
+117,2023-06-10,25.0,Female,Dubai,Standard,170.1,73.0,Walk-in,0
+118,2024-03-03,37.0,Female,Al Ain,Standard,166.1,68.6,Walk-in,0
+119,2023-12-18,35.0,Male,Abu Dhabi,Premium,157.8,69.0,Social Media,0
+120,2023-01-01,31.0,Male,Abu Dhabi,Standard,169.4,79.9,Online Ad,1
+121,2023-06-08,33.0,Male,Dubai,Premium,173.6,94.3,Online Ad,0
+122,2024-03-30,28.0,Male,Sharjah,Basic,154.5,70.4,Social Media,0
+123,2023-04-12,31.0,Female,Abu Dhabi,Standard,163.0,68.2,Friend,0
+124,2023-05-13,29.0,Female,Sharjah,Premium,167.5,80.9,Walk-in,0
+125,2023-11-20,28.0,Female,Dubai,Premium,175.5,46.3,Online Ad,1
+126,2023-01-02,32.0,Male,Sharjah,Basic,188.5,78.3,Online Ad,1
+127,2024-03-20,39.0,Male,Abu Dhabi,Premium,169.2,70.7,Social Media,0
+128,2024-01-13,32.0,Male,Dubai,Basic,176.9,81.9,Walk-in,0
+129,2023-05-26,26.0,Male,Dubai,Standard,,66.8,,0
+130,2023-06-09,23.0,Male,Dubai,Basic,186.7,88.8,Friend,0
+131,2023-06-16,37.0,Female,Dubai,Standard,164.8,50.5,Social Media,0
+132,2024-02-29,41.0,Male,Abu Dhabi,Standard,176.3,51.7,Walk-in,0
+133,2024-01-16,20.0,Female,Dubai,Basic,168.1,62.6,Social Media,0
+134,2023-10-14,31.0,Male,Abu Dhabi,Basic,146.6,67.5,Walk-in,0
+135,2023-04-14,24.0,Female,Sharjah,Standard,177.9,56.4,Social Media,0
+136,2024-04-25,30.0,Male,Sharjah,Standard,164.5,87.2,Friend,0
+137,2023-11-07,33.0,Male,Sharjah,Standard,164.7,97.1,Friend,1
+138,2023-05-14,,Male,abu dhabi,Basic,177.1,76.8,Friend,0
+139,2023-10-16,29.0,Female,Sharjah,Basic,178.2,65.9,Friend,0
+140,2023-03-20,28.0,Female,Al Ain,Standard,160.6,,Friend,0
+141,2023-02-12,40.0,Male,Abu Dhabi,Premium,182.2,77.2,Social Media,0
+142,2023-04-09,27.0,Male,Al Ain,Standard,157.3,84.4,Social Media,0
+143,2023-08-09,,Male,Al Ain,Basic,192.9,93.1,Social Media,0
+144,2024-05-24,27.0,Male,Sharjah,Standard,,57.1,Social Media,0
+145,2023-08-30,21.0,Male,Al Ain,Standard,175.1,64.7,Friend,0
+146,2023-08-15,26.0,Male,Dubai,Premium,163.3,90.6,,1
+147,2023-01-29,32.0,Female,Dubai,Standard,168.3,80.5,Walk-in,0
+148,2024-04-11,28.0,Male,abu dhabi,Standard,180.9,83.6,Walk-in,0
+149,2023-05-28,24.0,Female,Sharjah,Basic,183.0,79.2,Online Ad,0
+150,2023-05-18,25.0,Female,Al Ain,Standard,157.5,67.5,Social Media,0
+151,2023-06-18,29.0,Male,Al Ain,Standard,175.7,75.6,Online Ad,0
+152,2024-06-06,35.0,Female,Abu Dhabi,Standard,158.9,,Online Ad,0
+153,2023-06-21,31.0,Female,Sharjah,Premium,168.4,87.6,,1
+154,2023-10-29,24.0,Female,Al Ain,Premium,169.1,,Walk-in,0
+155,2024-04-07,38.0,Male,Sharjah,Standard,170.2,86.3,Walk-in,1
+156,2023-08-17,32.0,Male,Al Ain,Premium,167.9,62.2,Friend,0
+157,2024-04-17,41.0,Male,Abu Dhabi,Basic,173.9,63.2,Friend,1
+158,2023-01-20,34.0,Male,Sharjah,Basic,187.3,69.0,Online Ad,0
+159,2023-06-03,20.0,Female,Al Ain,Basic,152.4,66.7,Friend,1
+160,2023-12-02,47.0,Female,Dubai,Standard,160.1,80.8,Online Ad,0
+161,2024-06-25,30.0,Male,Dubai,Basic,183.1,84.3,Social Media,1
+162,2023-06-10,34.0,Male,Sharjah,Premium,182.0,45.9,Online Ad,0
+163,2024-05-14,20.0,Male,Dubai,Basic,158.3,90.5,Social Media,0
+164,2023-02-18,28.0,Male,al ain,Premium,171.0,77.2,Online Ad,1
+165,2023-07-01,26.0,Male,Dubai,Basic,166.5,88.3,Friend,0
+166,2023-07-01,25.0,Male,Abu Dhabi,Basic,180.5,105.5,Social Media,0
+167,2024-06-02,28.0,Female,Sharjah,Premium,167.6,83.1,Social Media,1
+168,2023-03-23,38.0,Male,Sharjah,Premium,161.8,72.5,Friend,0
+169,2023-12-20,37.0,Male,Dubai,Standard,,81.1,Social Media,0
+170,2023-04-08,,Female,Al Ain,Basic,170.7,74.7,Walk-in,1
+171,2023-02-01,25.0,Male,Al Ain,Premium,164.9,69.6,Social Media,0
+172,2023-01-26,33.0,M,Al Ain,Basic,164.8,93.1,Walk-in,1
+173,2023-06-27,29.0,Male,Al Ain,Basic,161.2,90.7,Walk-in,1
+174,2023-04-14,20.0,Female,Sharjah,Basic,195.4,77.7,Walk-in,0
+175,2023-09-17,23.0,Male,Abu Dhabi,Premium,181.4,80.8,Walk-in,0
+176,2024-01-17,24.0,Female,Al Ain,Basic,172.8,86.0,Social Media,0
+177,2023-08-14,30.0,Female,Dubai,Standard,171.1,78.7,Friend,1
+178,2023-10-06,32.0,Female,Dubai,Standard,173.7,63.1,Friend,0
+179,2023-09-05,27.0,Female,Dubai,Basic,175.2,90.4,Friend,1
+180,2024-02-05,20.0,Male,Sharjah,Standard,160.3,,Online Ad,0
+181,2023-05-22,30.0,Male,abu dhabi,Standard,181.0,71.7,Online Ad,1
+182,2024-03-01,32.0,male,Sharjah,Standard,192.0,83.0,Online Ad,0
+183,2024-03-12,23.0,F,Dubai,Basic,170.9,90.8,Online Ad,0
+184,2024-05-28,23.0,Male,Sharjah,Basic,170.7,92.4,Social Media,0
+185,2023-07-20,31.0,Male,Sharjah,Basic,,97.1,Social Media,0
+186,2024-02-10,27.0,Female,Sharjah,Standard,167.5,62.4,Social Media,1
+187,2024-05-06,,Male,Dubai,Basic,175.5,65.8,Online Ad,0
+188,2023-12-28,29.0,Male,Dubai,Basic,170.8,53.1,Friend,1
+189,2023-07-09,32.0,Male,Dubai,Basic,172.9,87.4,Social Media,0
+190,2023-07-02,25.0,M,Sharjah,Basic,156.2,47.1,,1
+191,2023-04-19,18.0,Male,Abu Dhabi,Basic,179.0,99.2,Friend,0
+192,2024-02-24,36.0,Female,Abu Dhabi,Basic,175.1,72.5,,0
+193,2023-07-21,,Female,Sharjah,Standard,152.7,75.9,Online Ad,1
+194,2023-09-25,24.0,Male,Abu Dhabi,Standard,182.7,62.0,Social Media,0
+195,2023-10-04,25.0,Male,Dubai,Premium,187.8,79.3,Walk-in,1
+196,2023-01-23,31.0,female,Dubai,Standard,159.1,68.8,Social Media,0
+197,2024-02-25,27.0,Female,Sharjah,Basic,177.8,49.7,Friend,1
+198,2024-01-27,24.0,Female,Sharjah,Basic,165.3,74.8,Walk-in,0
+199,2023-06-04,18.0,Female,Abu Dhabi,Basic,155.5,67.9,Friend,0
+200,2023-07-20,18.0,Male,Abu Dhabi,Basic,158.1,,Social Media,0
+201,2023-12-31,34.0,Male,Dubai,Basic,175.0,45.3,Online Ad,0
+202,2024-04-27,35.0,Male,Abu Dhabi,Basic,180.7,65.5,Walk-in,0
+203,2024-06-03,29.0,Female,Dubai,Standard,164.3,69.6,Social Media,0
+204,2024-06-07,31.0,Female,Al Ain,Standard,169.2,46.1,Walk-in,0
+205,2023-08-04,44.0,Female,Dubai,Standard,158.4,97.8,Walk-in,1
+206,2023-02-17,,Male,Abu Dhabi,Basic,159.0,62.3,Social Media,0
+207,2024-05-08,35.0,Female,Dubai,Standard,161.4,91.3,,0
+208,2023-10-13,33.0,Male,Dubai,Basic,175.2,85.7,Social Media,0
+209,2023-07-07,38.0,Female,Dubai,Standard,177.1,64.9,Walk-in,0
+210,2023-07-07,28.0,Male,Sharjah,Standard,168.6,50.7,Friend,0
+211,2023-01-13,22.0,Female,Dubai,Basic,176.4,92.3,Social Media,0
+212,2024-03-12,31.0,Male,Dubai,Standard,168.6,91.3,Online Ad,0
+213,2023-06-09,18.0,Female,Sharjah,Premium,188.0,64.6,Walk-in,0
+214,2023-12-20,40.0,Male,Sharjah,Premium,176.9,98.9,Social Media,0
+215,2024-01-25,35.0,Male,Abu Dhabi,Basic,161.3,78.9,Social Media,0
+216,2023-07-17,31.0,Female,Sharjah,Basic,184.2,88.9,Friend,0
+217,2023-08-23,31.0,Female,Abu Dhabi,Premium,170.7,68.4,Social Media,0
+218,2024-06-23,30.0,Female,Dubai,Basic,167.1,79.9,Social Media,1
+219,2023-01-31,24.0,Female,Abu Dhabi,Basic,184.2,85.1,Online Ad,1
+220,2023-01-28,28.0,Female,Dubai,Basic,171.1,70.3,Social Media,0
+221,2023-02-13,32.0,Male,Al Ain,Basic,163.7,62.1,Online Ad,0
+222,2024-06-19,38.0,Male,Dubai,Standard,161.3,,Online Ad,1
+223,2024-05-16,28.0,Female,Sharjah,Basic,171.9,89.8,Walk-in,1
+224,2023-11-03,20.0,Male,Al Ain,Basic,166.0,72.3,Social Media,1
+225,2023-08-14,,Male,Sharjah,Premium,168.9,83.1,Online Ad,1
+226,2024-06-12,30.0,Male,Abu Dhabi,Standard,173.3,69.5,Online Ad,1
+227,2024-02-16,37.0,Male,Sharjah,Standard,175.2,81.7,Online Ad,0
+228,2024-04-03,31.0,Female,Sharjah,Premium,171.1,81.2,Friend,1
+229,2023-07-29,20.0,M,Al Ain,Standard,171.9,39.4,Online Ad,1
+230,2023-09-29,34.0,Female,Dubai,Basic,178.2,73.8,Walk-in,0
+231,2023-06-03,,Male,Sharjah,Premium,183.2,64.1,Friend,0
+232,2023-02-08,37.0,Male,Dubai,Premium,164.5,94.0,Online Ad,0
+233,2023-06-20,30.0,Female,Sharjah,Basic,156.8,127.4,Walk-in,0
+234,2024-02-08,19.0,M,Dubai,Premium,174.1,51.3,Walk-in,0
+235,2023-04-24,33.0,M,Abu Dhabi,Standard,176.6,82.4,,0
+236,2023-10-09,41.0,Male,Sharjah,Standard,176.6,83.1,Online Ad,0
+237,2023-04-19,21.0,Male,Sharjah,Premium,173.6,35.9,,1
+238,2023-07-08,31.0,Female,Sharjah,Standard,168.3,85.0,Social Media,1
+239,2024-05-23,34.0,Male,Abu Dhabi,Basic,144.4,93.3,Social Media,1
+240,2023-11-02,35.0,Female,Dubai,Basic,177.1,63.7,Friend,0
+241,2023-09-29,30.0,F,Abu Dhabi,Basic,161.9,84.8,Online Ad,0
+242,2023-04-12,19.0,Male,Abu Dhabi,Basic,167.3,78.3,Friend,1
+243,2023-11-09,35.0,Male,Abu Dhabi,Standard,163.8,81.9,Walk-in,0
+244,2024-04-18,41.0,Male,abu dhabi,Premium,169.4,81.8,Online Ad,0
+245,2023-06-17,30.0,Male,Dubai,Basic,163.4,67.8,Walk-in,0
+246,2023-01-22,23.0,Male,Sharjah,Premium,166.3,,Social Media,0
+247,2023-11-27,27.0,Female,Dubai,Basic,,71.3,Friend,0
+248,2024-03-25,25.0,Female,Dubai,Basic,176.7,84.9,Social Media,0
+249,2023-01-29,32.0,Male,Abu Dhabi,Standard,168.3,75.7,Friend,1
+250,2024-02-29,32.0,Male,Dubai,Standard,178.0,106.7,,1
+251,2024-03-14,29.0,Female,Dubai,Basic,171.9,92.8,Online Ad,0
+252,2024-03-18,37.0,female,Sharjah,Basic,167.9,79.2,Friend,0
+253,2024-02-18,23.0,Male,Sharjah,Basic,187.0,69.2,Online Ad,0
+254,2023-06-15,32.0,Male,Al Ain,Premium,153.9,68.4,Social Media,0
+255,2023-09-05,31.0,Male,Abu Dhabi,Basic,154.8,60.4,Friend,0
+256,2023-11-27,18.0,Female,Dubai,Standard,179.2,64.6,Walk-in,0
+257,2024-05-08,34.0,Female,Abu Dhabi,Standard,167.9,71.5,Social Media,1
+258,2023-05-03,40.0,Female,Sharjah,Basic,164.5,87.9,Walk-in,0
+259,2023-07-24,30.0,Male,Abu Dhabi,Standard,150.8,56.2,Friend,0
+260,2023-01-21,35.0,Female,Sharjah,Basic,169.0,86.7,Friend,0
+261,2023-10-04,28.0,Female,Al Ain,Standard,171.6,53.8,Online Ad,1
+262,2023-08-01,24.0,Male,Dubai,Premium,166.8,87.0,Online Ad,1
+263,2024-04-01,33.0,Male,Abu Dhabi,Basic,160.7,89.6,Friend,0
+264,2023-10-16,36.0,F,Dubai,Standard,160.3,78.1,Friend,0
+265,2023-07-25,26.0,Male,Al Ain,Standard,163.4,83.0,Walk-in,0
+266,2023-06-24,32.0,Female,Dubai,Basic,171.3,79.5,Social Media,0
+267,2023-10-22,33.0,Male,Dubai,Standard,161.9,74.3,Walk-in,1
+268,2024-02-20,24.0,female,Al Ain,Standard,167.3,80.1,Online Ad,0
+269,2023-07-18,20.0,Female,Dubai,Premium,168.0,74.4,Online Ad,0
+270,2024-06-01,30.0,Female,Al Ain,Basic,182.0,67.6,Walk-in,0
+271,2023-08-09,18.0,Male,Sharjah,Standard,176.2,88.5,Walk-in,1
+272,2024-02-18,38.0,Male,Sharjah,Premium,162.7,76.2,Online Ad,0
+273,2023-11-10,34.0,Male,Sharjah,Standard,177.9,68.4,Online Ad,0
+274,2024-03-17,26.0,Male,Dubai,Standard,159.7,81.0,Friend,0
+275,2023-09-24,24.0,Male,Dubai,Standard,163.5,61.4,Friend,0
+276,2023-11-14,40.0,Female,Sharjah,Standard,158.2,61.6,Online Ad,0
+277,2024-03-12,33.0,Male,Al Ain,Standard,176.3,,Online Ad,1
+278,2023-08-05,19.0,Female,Sharjah,Premium,165.3,84.7,Friend,1
+279,2023-01-27,35.0,F,Al Ain,Basic,176.1,74.4,Walk-in,0
+280,2024-05-22,29.0,female,Al Ain,Premium,180.7,105.3,Online Ad,0
+281,2023-05-05,41.0,Male,Abu Dhabi,Basic,187.5,85.6,Friend,0
+282,2024-06-23,31.0,Male,Dubai,Premium,176.9,99.0,Walk-in,1
+283,2023-07-08,38.0,Female,Sharjah,Standard,181.7,55.3,Walk-in,1
+284,2023-09-17,36.0,Male,Sharjah,Premium,171.7,69.0,Social Media,0
+285,2023-02-12,18.0,Female,Dubai,Standard,149.5,81.7,Friend,0
+286,2023-05-30,37.0,F,Al Ain,Basic,178.3,99.7,Online Ad,1
+287,2023-08-27,22.0,Male,Al Ain,Standard,184.9,99.4,Walk-in,1
+288,2024-01-01,39.0,Female,Abu Dhabi,Premium,167.9,63.8,Friend,0
+289,2023-10-03,29.0,Female,al ain,Basic,162.3,83.1,Social Media,0
+290,2023-03-01,,Female,Al Ain,Basic,172.0,79.3,Friend,1
+291,2024-01-11,29.0,Male,Al Ain,Standard,161.5,80.2,Online Ad,0
+292,2023-12-09,22.0,Male,Sharjah,Standard,187.4,,Online Ad,0
+293,2024-02-03,31.0,Female,Dubai,Standard,159.6,102.6,Online Ad,0
+294,2023-08-15,,Female,Abu Dhabi,Premium,187.3,76.1,Online Ad,0
+295,2023-11-06,32.0,Male,Al Ain,Basic,154.8,65.9,Friend,1
+296,2024-02-26,26.0,Female,Al Ain,Basic,,62.3,Walk-in,0
+297,2023-11-04,22.0,Female,al ain,Premium,176.8,83.0,Social Media,0
+298,2024-04-25,38.0,Male,Dubai,Premium,177.0,77.7,Walk-in,1
+299,2023-08-17,41.0,Female,Dubai,Premium,167.9,92.6,Social Media,0
+300,2024-04-11,27.0,Female,Abu Dhabi,Basic,149.2,,Friend,1
